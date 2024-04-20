@@ -9,10 +9,10 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Text Extraction Web App**  |  Django-powered web app empowers users to effortlessly upload images and extract text using OCR technology. Whether you're a student digitizing lecture notes, a professional organizing paperwork, or a hobbyist converting handwritten recipes, this platform simplifies the process. Extracting text from images becomes seamless, enhancing productivity and providing valuable insights for various tasks.                                         | [Hosted Link 1](https://github.com/lynx771/textdesc.git)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               |Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Text Extraction Web Application**  |  Django-powered web app empowers users to effortlessly upload images and extract text using OCR technology. Whether you're a student digitizing lecture notes, a professional organizing paperwork, or a hobbyist converting handwritten recipes, this platform simplifies the process. Extracting text from images becomes seamless, enhancing productivity and providing valuable insights for various tasks.                                         |  [Repo Link 1](https://github.com/username/project1)             |
+
 
 #### Leadership and Influence:
 
@@ -21,8 +21,9 @@
 
 #### Networking:
 
--I actively engage on LinkedIn, sharing insights and connecting with professionals across sectors to foster collaboration and stay updated on industry trends
--MuLearn serves as a platform for continuous learning and community engagement in tech. I participate in forums and workshops to enhance skills and build connections   with like-minded individuals.
+- I actively engage on LinkedIn, sharing insights and connecting with professionals across sectors to foster collaboration and stay updated on industry trends
+- MuLearn serves as a platform for continuous learning and community engagement in tech. I participate in forums and workshops to enhance skills and build 
+  connections   with like-minded individuals.
 - Actively participate in tech festivals and competitions to showcase skills, collaborate on projects, and network with students for career growth and development.
 
 #### Career Plan:
